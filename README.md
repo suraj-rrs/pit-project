@@ -1,0 +1,8 @@
+Bienvenue jeune padawan, es-tu prêt à combattre le coté obscure de la force aux cotés de l'alliance jedi?
+
+La force est cependant capricieuse, pour la dompter il te faudra
+
+- Un système GNU/Linux (ou équivalent) avec Bash.
+- Connaitre les commandes standards : `ls`, `cat`, `grep`, `find`, `base64`, `tar`, `tr`, `chmod`, `touch`
+
+A présent si tu souhaites débuter ton apprentissage, lance le script start_jedi.sh
